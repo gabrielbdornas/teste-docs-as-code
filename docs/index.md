@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Teste Docs As Code
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Este é um texto em negrito**
 
-## Commands
+Este é um texto normal.
+Parágrafo.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Este é outro parágrafo.
+Outro frase em um parágrafo.
 
-## Project layout
+## Cabeçalho 2
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+_Texto em itálico_.
+
+Outro texto normal. Outra frase normal.
+
+### Cabeçalho 3
+
+> Esta é uma citação.
+> Alguém falou algo interessante.
+
+Um parágrafo qualquer.
+
+#### Cabeçalho 4
